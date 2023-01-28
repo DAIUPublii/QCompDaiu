@@ -2,18 +2,18 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Que Comprarle",
     "description": "",
-    "home_page_url": "https://daiupublii.github.io",
-    "feed_url": "https://daiupublii.github.io/feed.json",
+    "home_page_url": "https://daiupublii.github.io/QCompDaiu",
+    "feed_url": "https://daiupublii.github.io/QCompDaiu/feed.json",
     "user_comment": "",
     "author": {
         "name": "Daniel"
     },
     "items": [
         {
-            "id": "https://daiupublii.github.io/prueba.html",
-            "url": "https://daiupublii.github.io/prueba.html",
+            "id": "https://daiupublii.github.io/QCompDaiu/prueba.html",
+            "url": "https://daiupublii.github.io/QCompDaiu/prueba.html",
             "title": "Prueba",
-            "summary": "Prueba de título Prueba de título Veo que no me da a escoger el nivel del título.&nbsp;",
+            "summary": "Prueba de título Prueba de título Veo que no me da a&hellip;",
             "content_html": "\n    <h2 id=\"prueba-de-ttulo\">\n      Prueba de título\n    </h2>\n\n    <h3 id=\"prueba-de-ttulo\">\n      Prueba de título\n    </h3>\n\n  <p>\n    Veo que no me da a escoger el nivel del título.&nbsp;\n  </p>\n\n  <p>\n    \n  </p>",
             "author": {
                 "name": "Daniel"

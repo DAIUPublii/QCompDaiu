@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Que Comprarle</title>
-    <link href="https://daiupublii.github.io/feed.xml" rel="self" />
-    <link href="https://daiupublii.github.io" />
+    <link href="https://daiupublii.github.io/QCompDaiu/feed.xml" rel="self" />
+    <link href="https://daiupublii.github.io/QCompDaiu" />
     <updated>2023-01-28T01:00:55+01:00</updated>
     <author>
         <name>Daniel</name>
     </author>
-    <id>https://daiupublii.github.io</id>
+    <id>https://daiupublii.github.io/QCompDaiu</id>
 
     <entry>
         <title>Prueba</title>
         <author>
             <name>Daniel</name>
         </author>
-        <link href="https://daiupublii.github.io/prueba.html"/>
-        <id>https://daiupublii.github.io/prueba.html</id>
+        <link href="https://daiupublii.github.io/QCompDaiu/prueba.html"/>
+        <id>https://daiupublii.github.io/QCompDaiu/prueba.html</id>
 
         <updated>2023-01-28T01:00:55+01:00</updated>
             <summary>
                 <![CDATA[
-                    Prueba de título Prueba de título Veo que no me da a escoger el nivel del título.&nbsp;
+                    Prueba de título Prueba de título Veo que no me da a&hellip;
                 ]]>
             </summary>
         <content type="html">
