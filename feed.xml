@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Que Comprarle</title>
-    <link href="https://daiupublii.github.io/QCompDaiu/feed.xml" rel="self" />
-    <link href="https://daiupublii.github.io/QCompDaiu" />
+    <link href="https://quecomprarle.com/feed.xml" rel="self" />
+    <link href="https://quecomprarle.com" />
     <updated>2023-01-28T01:00:55+01:00</updated>
     <author>
         <name>Daniel</name>
     </author>
-    <id>https://daiupublii.github.io/QCompDaiu</id>
+    <id>https://quecomprarle.com</id>
 
     <entry>
         <title>Prueba</title>
         <author>
             <name>Daniel</name>
         </author>
-        <link href="https://daiupublii.github.io/QCompDaiu/prueba/"/>
-        <id>https://daiupublii.github.io/QCompDaiu/prueba/</id>
+        <link href="https://quecomprarle.com/prueba/"/>
+        <id>https://quecomprarle.com/prueba/</id>
 
         <updated>2023-01-28T01:00:55+01:00</updated>
             <summary>

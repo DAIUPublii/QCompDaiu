@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://daiupublii.github.io/QCompDaiu/sitemap.xml
+Sitemap: https://quecomprarle.com/sitemap.xml
