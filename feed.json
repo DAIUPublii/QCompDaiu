@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Que Comprarle",
+    "description": "",
+    "home_page_url": "https://daiupublii.github.io",
+    "feed_url": "https://daiupublii.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Daniel"
+    },
+    "items": [
+        {
+            "id": "https://daiupublii.github.io/prueba.html",
+            "url": "https://daiupublii.github.io/prueba.html",
+            "title": "Prueba",
+            "summary": "Prueba de título Prueba de título Veo que no me da a escoger el nivel del título.&nbsp;",
+            "content_html": "\n    <h2 id=\"prueba-de-ttulo\">\n      Prueba de título\n    </h2>\n\n    <h3 id=\"prueba-de-ttulo\">\n      Prueba de título\n    </h3>\n\n  <p>\n    Veo que no me da a escoger el nivel del título.&nbsp;\n  </p>\n\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "Daniel"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-01-28T01:00:55+01:00",
+            "date_modified": "2023-01-28T01:00:55+01:00"
+        }
+    ]
+}
